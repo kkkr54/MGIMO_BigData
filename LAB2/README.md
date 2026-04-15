@@ -26,3 +26,9 @@
 
 ### Примечание
 Файл `language_learning_platform_dag.py` находится в корневой папке проекта. 
+
+### Скриншоты
+<img width="1280" height="720" alt="LAB2_01" src="https://github.com/user-attachments/assets/114aec6c-915e-49d1-a89b-67b9201bebb8" />
+<img width="1280" height="709" alt="LAB2_02" src="https://github.com/user-attachments/assets/d70f377f-86df-4c83-84dd-4d72f8dd9e58" />
+
+
