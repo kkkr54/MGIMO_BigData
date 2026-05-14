@@ -31,3 +31,9 @@
 6. Реализован запуск витрины через dbt run.
 7. Для проверки логических связей была сгенерирована документация dbt. Построенный граф зависимостей (Lineage Graph) наглядно продемонстрировал путь трансформации данных от сырых таблиц (Seeds) до итоговой витрины (Mart).
 8. Автоматизация процесса реализована посредством написания идемпотентных моделей трансформации данных в dbt. Для постановки процессов на расписание (Scheduling) используется Apache Airflow, в котором настроен DAG с вызовом команды dbt run. Это обеспечивает ежедневное обновление аналитических витрин без участия человека.
+
+<img width="1918" height="1078" alt="LAB3" src="https://github.com/user-attachments/assets/c5401dac-ed6b-45b4-b82f-1212e3dd6707" />
+<img width="1918" height="1026" alt="LAB3_3" src="https://github.com/user-attachments/assets/65ec1d00-5953-48c2-8d63-d10dadcb59ac" />
+<img width="1267" height="201" alt="LAB3_4" src="https://github.com/user-attachments/assets/c68e136e-e110-4103-9f76-6be0e5bda65c" />
+
+
