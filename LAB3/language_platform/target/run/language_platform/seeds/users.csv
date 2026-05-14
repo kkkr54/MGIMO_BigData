@@ -1,0 +1,11 @@
+
+    
+    
+    truncate table "language_db"."main"."users";
+    -- dbt seed --
+    
+          COPY "language_db"."main"."users" FROM 'C:\Users\kartu\Downloads\MGIMO_BigData-main\LAB2\language_platform\seeds\users.csv' (FORMAT CSV, HEADER TRUE, DELIMITER ',')
+        
+
+;
+  

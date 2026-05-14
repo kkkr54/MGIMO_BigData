@@ -1,0 +1,6 @@
+user_id,lesson_id,score,status
+1,101,85,completed
+1,102,90,completed
+2,201,100,completed
+3,101,45,in_progress
+3,301,75,completed

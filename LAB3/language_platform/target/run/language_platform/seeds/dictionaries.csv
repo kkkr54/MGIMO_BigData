@@ -1,0 +1,13 @@
+
+    
+    
+    
+    create table "language_db"."main"."dictionaries" ("user_id" integer,"lang_id" integer,"words_learned" integer)
+  ;
+    -- dbt seed --
+    
+          COPY "language_db"."main"."dictionaries" FROM 'C:\Users\kartu\Downloads\MGIMO_BigData-main\LAB2\language_platform\seeds\dictionaries.csv' (FORMAT CSV, HEADER TRUE, DELIMITER ',')
+        
+
+;
+  
